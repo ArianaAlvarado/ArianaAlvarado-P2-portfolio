@@ -1,7 +1,119 @@
 ---
-title: "About me"
+title: "About Me"
+title-block-banner: true
+format:
+  html:
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+    code-fold: true
 ---
 
-Add some text and a figure describing myself.
+::: {.panel-tabset}
 
-For details, see the exercise instructions. 
+### Background
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+
+My name is Ariana.
+
+I graduated with a B.A. from TLU. Since obtaining my degree and entering the workforce, I quickly learned the distinction between the kind of research and analysis that happens in the corporate world compared to my experience in academia. There was still much more for me to learn and develop, and that interest grew into data analysis/visualization, where I eventually found my way into this program.
+
+![](Self.jpg){width="30%" fig-align="center"}
+
+</div>
+
+### Experience
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+
+So far:
+
+- various self-paced learning (looking at you, Coursera) while working.
+- Data Science & Business Analytics Certification.
+- my jobs.
+- current MSDA program.
+
+</div>
+
+### Goals
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+
+I started the program as a segue into a career more aligned with my newly formed interests.
+
+But mostly, I like to be a *well-rounded* person (aka. don't want to be replaced by AI).
+
+
+![](Milton.jpg){width="50%" fig-align="center"}
+</div>
+
+### Interests
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+
+I am currently enjoying the visualization/dashboard/gui creation (user experience) part of my job. 
+
+I would like to expand on that aspect but am open to see what else I can learn while in this class.
+
+</div>
+
+### Fun Fact
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+
+I am a quadruplet.
+
+![](4.JPEG){width="60%" fig-align="center"}
+
+</div>
+
+### Click Here to See Something Cool
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+
+Two things: 
+
+- The idea of the deep sea freaks me out. 
+- I appreciate a good, creative visual of info/data.
+
+So here's an interactive visualization of the depths of the ocean --
+
+<https://neal.fun/deep-sea/>
+
+</div>
+
+:::
+
+::: {.callout-important}
+
+## Important: If you're still here...
+
+.
+
+..
+
+...
+
+
+![.](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBranZ2ODBrYjF2OHAyZmdrcmwyZzBjNXN5ejcyZ3hiZDJnaTN5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KSKvdT1YGCpUIonvSq/giphy.gif)
+
+:::
